@@ -3,7 +3,7 @@ name = "SigmaOS-deadline-scheduler"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "deadline-scheduler component"
+description = "deadline scheduler component"
 upstream = []
 
 [contract]
